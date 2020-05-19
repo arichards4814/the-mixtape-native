@@ -1,0 +1,17 @@
+{
+  "name": "the-mixtape-native",
+  "displayName": "the-mixtape-native",
+  "expo": {
+    "name": "the-mixtape-native",
+    "slug": "the-mixtape-native",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
